@@ -32,4 +32,4 @@ A curated collection of free lectures and tutorials from YouTube to build a soli
 [Hugging face Open-Source AI cookbook](https://huggingface.co/learn/cookbook/en/index)
 
 # Applications
-Applications of LLMs in real-world scenarios will be documented in [here](applications/index.md)
+Applications of LLMs in real-world scenarios will be documented in [here](applications/README.md)
