@@ -26,8 +26,10 @@ A curated collection of free lectures and tutorials from YouTube to build a soli
 - [How Transformers Work](https://youtu.be/zxQyTK8quyY?si=6tg_EnR4jl9VlRxs)
     - A beginner-friendly explanation of the transformer architecture.
 
+- [Building Large Language Models](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+
 ## Hands-on Tutorials
 [Hugging face Open-Source AI cookbook](https://huggingface.co/learn/cookbook/en/index)
 
 # Applications
-Applications of LLMs in real-world scenarios will be documented in [here](#applications)
+Applications of LLMs in real-world scenarios will be documented in [here](applications/index.md)
