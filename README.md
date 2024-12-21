@@ -20,7 +20,7 @@ A curated collection of free lectures and tutorials from YouTube to build a soli
 - [Introduction to Deep Learning](https://youtu.be/ErnWZxJovaM?si=hO4J8BCZiUGyudnt)
     - A really great foundation in Deep Learning
 
-- [Introduction to Natural Language Processing]([https://youtu.be/rmVRLeJRkl4?si=roCHlGW21VNBcl7a](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4))
+- [Introduction to Natural Language Processing](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
     - An overview of NLP and its evolution to LLMs.
 
 - [How Transformers Work](https://youtu.be/zxQyTK8quyY?si=6tg_EnR4jl9VlRxs)
