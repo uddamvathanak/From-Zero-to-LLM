@@ -60,7 +60,7 @@ cd From-Zero-to-LLM
 
 # Applications Covered
 1. [Text Classification](text_classification.ipynb)
-2. Text Summarization
+2. [Text Summarization](text_summarisation.ipynb)
 3. Question Answering
 4. Code Generation
 5. Conversational Agents
