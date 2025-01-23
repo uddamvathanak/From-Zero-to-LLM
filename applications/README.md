@@ -59,7 +59,7 @@ cd From-Zero-to-LLM
 ```
 
 # Applications Covered
-1. Text Classification
+1. [Text Classification](text_classification.ipynb)
 2. Text Summarization
 3. Question Answering
 4. Code Generation
