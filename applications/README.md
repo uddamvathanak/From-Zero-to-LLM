@@ -62,7 +62,7 @@ cd From-Zero-to-LLM
 1. [Text Classification](text_classification.ipynb)
 2. [Text Summarization](text_summarisation.ipynb)
 3. [Question Answering](text_QA.ipynb)
-4. Code Generation
+4. [Code Generation](code_generation.py)
 5. Conversational Agents
 
 # Troubleshooting
