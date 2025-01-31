@@ -63,7 +63,8 @@ cd From-Zero-to-LLM
 2. [Text Summarization](text_summarisation.ipynb)
 3. [Question Answering](text_QA.ipynb)
 4. [Code Generation](code_generation.py)
-5. Conversational Agents
+5. [Text Generation](text_generation.py)
+6. [RAG application](https://github.com/uddamvathanak/local_pdf_rag)
 
 # Troubleshooting
 If you encounter issues during installation, ensure that:
